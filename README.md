@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=YB's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 성장하는 개발자 YB입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 개발자 YB입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 저는 Java를 주로 사용하는 개발자입니다.</li><li> 소통과 협력을 중요시하며, 열정 가득한 개발자입니다. </div> 
     </div>
     <div align= "center">
